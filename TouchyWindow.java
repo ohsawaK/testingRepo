@@ -1,6 +1,8 @@
 import objectdraw.*;
 import java.awt.*;
 
+// add comment.
+
 public class TouchyWindow extends WindowController {
 
     @Override public void onMousePress( Location point ) {
